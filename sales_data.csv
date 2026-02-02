@@ -1,0 +1,21 @@
+order_id,order_date,product_name,quantity,total_amount
+1,2026-01-01,Product A,2,200
+2,2026-01-03,Product B,1,150
+3,2026-01-05,Product C,5,500
+4,2026-01-08,Product A,1,100
+5,2026-01-10,Product D,3,450
+6,2026-01-12,Product B,2,300
+7,2026-01-15,Product C,1,100
+8,2026-01-18,Product A,4,400
+9,2026-01-20,Product D,2,300
+10,2026-01-22,Product B,3,450
+11,2026-01-25,Product C,2,200
+12,2026-01-27,Product A,3,300
+13,2026-01-28,Product D,1,150
+14,2026-01-29,Product B,4,600
+15,2026-01-30,Product C,3,300
+16,2026-02-01,Product A,2,200
+17,2026-02-02,Product D,5,750
+18,2026-02-03,Product B,2,300
+19,2026-02-04,Product C,1,100
+20,2026-02-05,Product A,1,100
